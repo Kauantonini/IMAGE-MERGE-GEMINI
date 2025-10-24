@@ -1,0 +1,5 @@
+{
+  "name": "Image Merge Reference",
+  "description": "An AI-powered tool to generate a new image that blends the visual attributes from 2 to 4 uploaded reference images.",
+  "requestFramePermissions": []
+}
